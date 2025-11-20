@@ -1,2 +1,12 @@
 # Process-Discovery-and-Variant-Analysis
 Study on the BPIC-17 Loan Application Event Log
+
+## Dataset
+
+This project uses the BPI Challenge 2017 dataset, which is too large to include in this repository.
+
+Please download the dataset package **"BPI Challenge 2017_1_all"** from the official website:
+
+https://ais.win.tue.nl/bpi/2017/challenge.html
+
+and place the extracted folder in this project's root directory.
